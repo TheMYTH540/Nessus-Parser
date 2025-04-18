@@ -39,6 +39,6 @@ This tool is written in Python and requires the following libraries:
 1. Clone the repository:
    ```bash
    git clone https://github.com/TheMYTH540/Nessus_Parser.git
-   cd nessus-parser
-   chmod +x nessus-parser.pyw
-   python nessus-parser.pyw
+   cd Nessus-Parser
+   chmod +x Nessus_Parser_ver1.0.pyw
+   python Nessus_Parser_ver1.0.pyw 
