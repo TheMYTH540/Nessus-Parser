@@ -64,7 +64,7 @@ This tool is written in Python and requires the following libraries:
    python Nessus-Parser.pyw 
 
 **Option 2: Run on Windows (EXE)** \
- No Python required! Download the prebuilt nessus-parser.exe from the Releases section. \
+ Download the prebuilt nessus-parser.exe from the Releases section. \
  Or, build your own .exe using PyInstaller:
    ```bash
    pyinstaller --onefile --icon=parserlogo.ico --windowed .\Nessus-Parser.pyw
