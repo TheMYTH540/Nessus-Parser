@@ -87,9 +87,11 @@ It’s a fast way to verify remediation progress for audit cycles.
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ Screenshot
 
-
+<p align="center">
+  <img src="https://github.com/TheMYTH540/Nessus-Parser/blob/main/Screenshot.png?raw=true" alt="Nessus Parser Screenshot"/>
+</p>
 
 ---
 ## 🙌 Contribution
